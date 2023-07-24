@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jO2GDRTtFWOYGBOKjjweTxfH7KZv40umjaCBtaPLnE60jfEGX0+P0+qUr2BGgV3S24v4L3FI9kGxmiw3jgGi+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Proje-1\\Oblique-shocker\\Oblique-shocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\numsharp\\0.30.0\\numsharp.0.30.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

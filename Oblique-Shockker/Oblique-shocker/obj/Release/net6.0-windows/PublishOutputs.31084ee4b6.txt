@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Yeni klasör\Oblique-shocker.exe
+C:\Users\ASUS\Desktop\Yeni klasör\Oblique-shocker.dll
+C:\Users\ASUS\Desktop\Yeni klasör\Oblique-shocker.deps.json
+C:\Users\ASUS\Desktop\Yeni klasör\Oblique-shocker.runtimeconfig.json
+C:\Users\ASUS\Desktop\Yeni klasör\Oblique-shocker.pdb
+C:\Users\ASUS\Desktop\Yeni klasör\NumSharp.dll
